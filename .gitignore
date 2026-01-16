@@ -1,0 +1,20 @@
+# Docker
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Temp files
+temp/
+backend/temp/
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
