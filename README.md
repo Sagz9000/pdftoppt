@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # PDF to PPT Converter
 
 ![App Preview](./pictures/pdftoppt.png)
@@ -56,9 +56,7 @@ The application includes a built-in cleanup mechanism:
 - Uploaded PDFs are deleted immediately after processing.
 - Generated PPTX files are deleted automatically after being downloaded.
 
----
-Built with ⚡ by Antigravity
-=======
+
 # pdftoppt
 Convert Pdf slide decks to Powerpoint retaining original format with abillity to edit text
->>>>>>> 1b7b91a614b85123b28c0dfe022f3144e1274c23
+
