@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PDF to PPT Converter
 
 A premium, AI-agentic web application designed to convert PDF files into fully editable PowerPoint (.pptx) presentations. This tool is specifically optimized for preserving layouts from exports like **NotebookLM**, making data liberation seamless.
@@ -55,3 +56,7 @@ The application includes a built-in cleanup mechanism:
 
 ---
 Built with ⚡ by Antigravity
+=======
+# pdftoppt
+Convert Pdf slide decks to Powerpoint retaining original format with abillity to edit text
+>>>>>>> 1b7b91a614b85123b28c0dfe022f3144e1274c23
